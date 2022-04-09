@@ -120,7 +120,7 @@ class _CalculatorState extends State<Calculator> {
                 calcbutton("1", Color.fromARGB(255, 48, 48, 48), Colors.white),
                 calcbutton("2", Color.fromARGB(255, 48, 48, 48), Colors.white),
                 calcbutton("3", Color.fromARGB(255, 48, 48, 48), Colors.white),
-                calcbutton("+ ", Colors.amber, Colors.white),
+                calcbutton("+", Colors.amber, Colors.white),
               ],
             ),
 
